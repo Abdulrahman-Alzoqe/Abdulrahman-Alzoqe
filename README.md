@@ -11,6 +11,6 @@
 ## 🧰 Tech Stack & Skills
 
 ### 🌱 Currently Learning:
-* **oop**
-* **Data Structures & Algorithms**
+* **C# .Net**
+* **Data Base**
 * **Web Development**
